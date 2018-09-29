@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-boas-praticas-no-front-end-aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Tagliari Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.0"
+  },
+  "devDependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.0"
+  }
+}

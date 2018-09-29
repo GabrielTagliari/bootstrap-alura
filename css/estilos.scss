@@ -1,0 +1,15 @@
+$espacamento-padrao: 20px;
+$cor-azul-secao: #0275D8;
+
+#paineis-sobre {
+    margin-top: $espacamento-padrao;
+}
+
+.depoimento-clientes {
+    background-color: $cor-azul-secao;
+    color: #FFF;
+    font-size: 24px;
+    margin-bottom: 0;
+    padding: 25px 0 25px 0;
+    text-align: center;
+}
